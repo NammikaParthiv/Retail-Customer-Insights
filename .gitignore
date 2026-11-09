@@ -1,0 +1,8 @@
+images/
+__pycache__/
+*.py[cod]
+rfm_customers.csv
+rfm_segments.csv
+rfm_cohorts.csv
+campaign_ideas.csv
+RFM Analysis.executed.ipynb
