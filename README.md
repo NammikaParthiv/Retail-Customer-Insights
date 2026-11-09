@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Retail Customer Insights
 
 This project analyzes retail transactions to understand how recently customers purchased, how often they ordered, and how much they spent. It creates practical customer segments, examines purchase cohorts, and provides an interactive dashboard for exploring results.
@@ -47,3 +48,6 @@ Segments are a way to organize customers for investigation; they do not prove ch
 ## Source data
 
 The transaction file is the supplied Online Retail dataset. This project documents its own data preparation, RFM definitions, segmentation, analysis, dashboard, and campaign hypotheses. Preserve the source dataset’s attribution and usage terms when redistributing it.
+=======
+# Retail-Customer-Insights
+>>>>>>> 9aaa7be64ba9fc3fa93a32edb461ae639a002fa0
